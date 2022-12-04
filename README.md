@@ -3,7 +3,7 @@
 
 - 💻 I’m currently Software Engineer at [Cape of Good Code](https://capeofgoodcode.com/).
 
-- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:25px;"> I’m currently Undergraduate Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
+- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Undergraduate Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
 
 - 📑 I’m currently conducting research on **CI/CD bad practices**.
 
