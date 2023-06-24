@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ayberk Yaşa 👋</h1>
-<h3 align="center">Senior Computer Science Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 💻 I’m currently Software Engineer at [Cape of Good Code](https://capeofgoodcode.com/).
 
