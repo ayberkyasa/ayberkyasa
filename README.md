@@ -35,5 +35,5 @@
 ## My Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayberkyasa&count_private=true&show_icons=true&theme=gotham" alt="ayberkyasa" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayberkyasa&theme=gotham" alt="ayberkyasa" />
+  <a width="49%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayberkyasa&theme=vue-dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
