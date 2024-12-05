@@ -3,9 +3,9 @@
 
 - 💻 I’m currently Software Engineer at [Cape of Good Code](https://capeofgoodcode.com/).
 
-- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Undergraduate Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
+- <img src="https://bilsen.cs.bilkent.edu.tr/img/bilsen-logo-circled.png" style="width:20px;"> I’m currently Researcher at [BILSEN](https://bilsen.cs.bilkent.edu.tr/).
 
-- 📑 I’m currently conducting research on **CI/CD bad practices**.
+- 📑 I’m currently conducting research on **Software Traceability**.
 
 
 ## Connect with me
@@ -32,8 +32,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </p>
 
+<!--
 ## My Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayberkyasa&count_private=true&show_icons=true&theme=gotham" alt="ayberkyasa" />
-  <a width="49%" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayberkyasa&theme=vue-dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <img width="49%" src="https://streak-stats.demolab.com?user=ayberkyasa&theme=vue-dark&hide_border=true&mode=weekly" alt="ayberkyasa" />
 </p>
+-->
+
+
+
